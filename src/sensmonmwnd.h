@@ -1,6 +1,6 @@
-
 #ifndef SENSMONMWND_H
 #define SENSMONMWND_H
+
  /****************************************************************************
  **
  ** Copyright (C) 2011 Nokia Corporation and/or its subsidiary(-ies).
@@ -41,8 +41,8 @@
  **
  ****************************************************************************/
 
-/* Copyright © 2011, Texas Instruments Incorporated
-** June 1, 2011 Modified by Texas Instruments …
+/* Copyright Â© 2011, Texas Instruments Incorporated
+** June 1, 2011 Modified by Texas Instruments â€¦
 */
 
 #include <QMainWindow>
