@@ -53,8 +53,8 @@ SOURCES	= \
     src\\settingswindow.cpp \
 
 FORMS = \
-        src\\settingswindow.ui \
-        src\\console.ui
+    src\\settingswindow.ui \
+    src\\console.ui
 
 RESOURCES = resources\\sensMon.qrc
 
