@@ -323,7 +323,7 @@ int NodeDb::calculateRadius(int strength){
 		return 130;*/
 
 //new data table for version 2.0
-	if     (strength > 33) // 0-2cm
+    if (strength > 33) // 0-2cm
 		return 130;
 	else if(strength > 29) // 2-5cm
 		return 140;
@@ -350,13 +350,5 @@ int NodeDb::calculateRadius(int strength){
 	else if(strength > 15)
 		return 250;
 	else
-		return 260;
-		
-
-
-
-
-
-
-
+        return 260;
 }

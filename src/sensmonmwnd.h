@@ -179,9 +179,6 @@ private:
 	QStringList m_nodeList;
 
 	SettingsWindow *settingsWindow;
-	 
-
-	
 };
 
 /** \brief Device Change Event Class

@@ -9,7 +9,7 @@
         <file alias="console">images/console.png</file>
         <file alias="config">images/config.png</file>
         <file alias="mps430_logo">images/mps430_Logo.png</file>
-        <file alias="ti_red_platform">images/ti_red_platform_bar.png</file>
+        <file alias="ti_red_platform_bar">images/ti_red_platform_bar.png</file>
         <file alias="ti_logo_red">images/ti_logo_red.png</file>
         <file alias="accept">images/accept.png</file>
         <file alias="cc430_logo">images/cc430_logo.png</file>

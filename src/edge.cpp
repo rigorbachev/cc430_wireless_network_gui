@@ -43,7 +43,7 @@
 */
 
  
- #include <QPainter>
+#include <QPainter>
 
 #include "edge.h"
 #include "node.h"
