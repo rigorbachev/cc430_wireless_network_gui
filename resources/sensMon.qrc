@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="ti_bug_icon_red">images/ti_bug_icon_red.ico</file>
+        <file alias="play">images/play.png</file>
+        <file alias="pause">images/pause.png</file>
+        <file alias="stop">images/stop.png</file>
+        <file alias="new">images/new.png</file>
+        <file alias="pdf">images/pdf.png</file>
+        <file alias="console">images/console.png</file>
+        <file alias="config">images/config.png</file>
+        <file alias="mps430_logo">images/mps430_Logo.png</file>
+        <file alias="ti_red_platform">images/ti_red_platform_bar.png</file>
+        <file alias="ti_logo_red">images/ti_logo_red.png</file>
+        <file alias="accept">images/accept.png</file>
+        <file alias="cc430_logo">images/cc430_logo.png</file>
+        <file alias="copy">images/copy.png</file>
+        <file alias="graph">images/graph.png</file>
+        <file alias="open">images/open.png</file>
+        <file alias="readme">images/readme.png</file>
+        <file alias="save">images/save.png</file>
+    </qresource>
+</RCC>
